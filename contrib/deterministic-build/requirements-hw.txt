@@ -41,7 +41,7 @@ Cython==0.28.5 \
     --hash=sha256:ef86de9299e4ab2ebb129fb84b886bf40b9aced9807c6d6d5f28b46fb905f82c \
     --hash=sha256:f3e4860f5458a9875caa3de65e255720c0ed2ce71f0bcdab02497b32104f9db8 \
     --hash=sha256:fc6c20a8ac22202a779ad4c59756647be0826993d2151a03c015e76d2368ae5f
-ecdsa==0.13 \
+ecdsa==0.14 \
     --hash=sha256:40d002cf360d0e035cf2cb985e1308d41aaa087cbfc135b2dc2d844296ea546c \
     --hash=sha256:64cf1ee26d1cde3c73c6d7d107f835fed7c6a2904aef9eac223d57ad800c43fa
 hidapi==0.7.99.post21 \
@@ -96,7 +96,7 @@ pyblake2==1.1.2 \
     --hash=sha256:baa2190bfe549e36163aa44664d4ee3a9080b236fc5d42f50dc6fd36bbdc749e \
     --hash=sha256:c53417ee0bbe77db852d5fd1036749f03696ebc2265de359fe17418d800196c4 \
     --hash=sha256:fbc9fcde75713930bc2a91b149e97be2401f7c9c56d735b46a109210f58d7358
-requests==2.19.1 \
+requests==2.20 \
     --hash=sha256:63b52e3c866428a224f97cab011de738c36aec0185aa91cfacd418b5d58911d1 \
     --hash=sha256:ec22d826a36ed72a7358ff3fe56cbd4ba69dd7a6718ffd450ff0e9df7a47ce6a
 safet==0.1.4 \
@@ -111,7 +111,7 @@ six==1.11.0 \
 trezor==0.10.2 \
     --hash=sha256:4dba4d5c53d3ca22884d79fb4aa68905fb8353a5da5f96c734645d8cf537138d \
     --hash=sha256:d2b32f25982ab403758d870df1d0de86d0751c106ef1cd1289f452880ce68b84
-urllib3==1.23 \
+urllib3==1.25.9 \
     --hash=sha256:a68ac5e15e76e7e5dd2b8f94007233e01effe3e50e8daddf69acfd81cb686baf \
     --hash=sha256:b5725a0bd4ba422ab0e66e89e030c806576753ea3ee08554382c14e685d117b5
 websocket-client==0.52.0 \

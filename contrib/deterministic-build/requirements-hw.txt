@@ -41,7 +41,7 @@ Cython==0.28.5 \
     --hash=sha256:ef86de9299e4ab2ebb129fb84b886bf40b9aced9807c6d6d5f28b46fb905f82c \
     --hash=sha256:f3e4860f5458a9875caa3de65e255720c0ed2ce71f0bcdab02497b32104f9db8 \
     --hash=sha256:fc6c20a8ac22202a779ad4c59756647be0826993d2151a03c015e76d2368ae5f
-ecdsa==0.13 \
+ecdsa==0.14 \
     --hash=sha256:40d002cf360d0e035cf2cb985e1308d41aaa087cbfc135b2dc2d844296ea546c \
     --hash=sha256:64cf1ee26d1cde3c73c6d7d107f835fed7c6a2904aef9eac223d57ad800c43fa
 hidapi==0.7.99.post21 \
@@ -117,6 +117,6 @@ urllib3==1.23 \
 websocket-client==0.52.0 \
     --hash=sha256:03763384c530b331ec3822d0b52ffdc28c3aeb8a900ac8c98b2ceea3128a7b4e \
     --hash=sha256:3c9924675eaf0b27ae22feeeab4741bb4149b94820bd3a143eeaf8b62f64d821
-wheel==0.31.1 \
+wheel==0.38.0 \
     --hash=sha256:0a2e54558a0628f2145d2fc822137e322412115173e8a2ddbe1c9024338ae83c \
     --hash=sha256:80044e51ec5bbf6c894ba0bc48d26a8c20a9ba629f4ca19ea26ecfcf87685f5f

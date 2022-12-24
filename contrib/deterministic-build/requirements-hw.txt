@@ -102,7 +102,7 @@ requests==2.19.1 \
 safet==0.1.4 \
     --hash=sha256:522c257910f9472e9c77c487425ed286f6721c314653e232bc41c6cedece1bb1 \
     --hash=sha256:b152874acdc89ff0c8b2d680bfbf020b3e53527c2ad3404489dd61a548aa56a1
-setuptools==40.2.0 \
+setuptools==65.5.1 \
     --hash=sha256:47881d54ede4da9c15273bac65f9340f8929d4f0213193fa7894be384f2dcfa6 \
     --hash=sha256:ea3796a48a207b46ea36a9d26de4d0cc87c953a683a7b314ea65d666930ea8e6
 six==1.11.0 \
@@ -117,6 +117,6 @@ urllib3==1.23 \
 websocket-client==0.52.0 \
     --hash=sha256:03763384c530b331ec3822d0b52ffdc28c3aeb8a900ac8c98b2ceea3128a7b4e \
     --hash=sha256:3c9924675eaf0b27ae22feeeab4741bb4149b94820bd3a143eeaf8b62f64d821
-wheel==0.31.1 \
+wheel==0.38.0 \
     --hash=sha256:0a2e54558a0628f2145d2fc822137e322412115173e8a2ddbe1c9024338ae83c \
     --hash=sha256:80044e51ec5bbf6c894ba0bc48d26a8c20a9ba629f4ca19ea26ecfcf87685f5f

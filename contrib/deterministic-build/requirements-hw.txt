@@ -96,7 +96,7 @@ pyblake2==1.1.2 \
     --hash=sha256:baa2190bfe549e36163aa44664d4ee3a9080b236fc5d42f50dc6fd36bbdc749e \
     --hash=sha256:c53417ee0bbe77db852d5fd1036749f03696ebc2265de359fe17418d800196c4 \
     --hash=sha256:fbc9fcde75713930bc2a91b149e97be2401f7c9c56d735b46a109210f58d7358
-requests==2.19.1 \
+requests==2.31.0 \
     --hash=sha256:63b52e3c866428a224f97cab011de738c36aec0185aa91cfacd418b5d58911d1 \
     --hash=sha256:ec22d826a36ed72a7358ff3fe56cbd4ba69dd7a6718ffd450ff0e9df7a47ce6a
 safet==0.1.4 \

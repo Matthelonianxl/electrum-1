@@ -1,6 +1,6 @@
 btchip-python==0.1.28 \
     --hash=sha256:da09d0d7a6180d428833795ea9a233c3b317ddfcccea8cc6f0eba59435e5dd83
-certifi==2018.8.24 \
+certifi==2023.7.22 \
     --hash=sha256:376690d6f16d32f9d1fe8932551d80b23e9d393a8578c5633a2ed39a64861638 \
     --hash=sha256:456048c7e371c089d0a77a5212fb37a2c2dce1e24146e3b7e0261736aaeaa22a
 chardet==3.0.4 \

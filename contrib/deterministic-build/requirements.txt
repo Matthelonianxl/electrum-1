@@ -111,7 +111,7 @@ QDarkStyle==2.5.4 \
 qrcode==6.0 \
     --hash=sha256:037b0db4c93f44586e37f84c3da3f763874fcac85b2974a69a98e399ac78e1bf \
     --hash=sha256:de4ffc15065e6ff20a551ad32b6b41264f3c75275675406ddfa8e3530d154be3
-requests==2.19.1 \
+requests==2.32.0 \
     --hash=sha256:63b52e3c866428a224f97cab011de738c36aec0185aa91cfacd418b5d58911d1 \
     --hash=sha256:ec22d826a36ed72a7358ff3fe56cbd4ba69dd7a6718ffd450ff0e9df7a47ce6a
 setuptools==40.2.0 \

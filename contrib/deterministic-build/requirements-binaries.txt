@@ -37,7 +37,7 @@ PyQt5==5.10.1 \
     --hash=sha256:4db7113f464c733a99fcb66c4c093a47cf7204ad3f8b3bda502efcc0839ac14b \
     --hash=sha256:9c17ab3974c1fc7bbb04cc1c9dae780522c0ebc158613f3025fccae82227b5f7 \
     --hash=sha256:f6035baa009acf45e5f460cf88f73580ad5dc0e72330029acd99e477f20a5d61
-setuptools==40.2.0 \
+setuptools==70.0.0 \
     --hash=sha256:47881d54ede4da9c15273bac65f9340f8929d4f0213193fa7894be384f2dcfa6 \
     --hash=sha256:ea3796a48a207b46ea36a9d26de4d0cc87c953a683a7b314ea65d666930ea8e6
 SIP==4.19.8 \

@@ -1,4 +1,4 @@
-aiohttp==3.4.4 \
+aiohttp==3.10.2 \
     --hash=sha256:0419705a36b43c0ac6f15469f9c2a08cad5c939d78bd12a5c23ea167c8253b2b \
     --hash=sha256:1812fc4bc6ac1bde007daa05d2d0f61199324e0cc893b11523e646595047ca08 \
     --hash=sha256:2214b5c0153f45256d5d52d1e0cafe53f9905ed035a142191727a5fb620c03dd \
@@ -44,7 +44,7 @@ dnspython==1.15.0 \
 ecdsa==0.13 \
     --hash=sha256:40d002cf360d0e035cf2cb985e1308d41aaa087cbfc135b2dc2d844296ea546c \
     --hash=sha256:64cf1ee26d1cde3c73c6d7d107f835fed7c6a2904aef9eac223d57ad800c43fa
-idna==2.7 \
+idna==3.7 \
     --hash=sha256:156a6814fb5ac1fc6850fb002e0852d56c0c8d2531923a51032d1b70760e186e \
     --hash=sha256:684a38a6f903c1d71d6d5fac066b58d7768af4de2b832e426ec79c30daa94a16
 idna_ssl==1.1.0 \

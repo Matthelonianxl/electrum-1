@@ -9,3 +9,4 @@ qdarkstyle<3.0
 aiorpcx>=0.8.1,<0.9
 aiohttp
 aiohttp_socks
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
